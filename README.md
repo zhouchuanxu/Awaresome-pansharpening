@@ -12,6 +12,7 @@
 |mmnet-IJCV|Memory-augmented Deep Unfolding Network for Guided Image Super-resolution|
 |LHFnet-ACM MM|Adaptively Learning Low-high Frequency Information Integration for Pan-sharpening|
 |NormNet-ACM MM|Normalization-based Feature Selection and Restitution for Pan-sharpening|
+|CINet-TGRS|Information Compensation and Integration Network for Pan-sharpening|
 
 
 
