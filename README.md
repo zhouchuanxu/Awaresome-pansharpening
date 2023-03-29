@@ -9,6 +9,7 @@
 |pan_unfolding-CVPR|Memory-augmented Deep Conditional Unfolding Network for Pan-sharpening|
 |MutInf-CVPR|Mutual Information-driven Pan-sharpening|
 |SFITNET-ECCV|Spatial-Frequency Domain Information Integration for Pan-sharpening|
+|SFINet++-TPAMI|A General Spatial-Frequency Learning Framework for Satellite Image Pansharpening|
 |mmnet-IJCV|Memory-augmented Deep Unfolding Network for Guided Image Super-resolution|
 |LHFnet-ACM MM|Adaptively Learning Low-high Frequency Information Integration for Pan-sharpening|
 |NormNet-ACM MM|Normalization-based Feature Selection and Restitution for Pan-sharpening|
