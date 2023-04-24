@@ -46,9 +46,17 @@ You can install the necessary packages using pip:
 pip install torch numpy matplotlib opencv-python pyyaml
 ```
 
+### Prepare Dataset
+
+All the training/testing data are avalibal at [Baidu Disk](https://pan.baidu.com/s/12XqgR3l4m-WBxGOw4W807A?pwd=i1dk) code:i1dk 
+
+If you use this datasets, please cite our paper to acknowledge our efforts.
+
+
 ### Configuration
 
 Before training the model, you need to configure the following options in the `option.yaml` file:
+
 
 - `log_dir`: the directory to store the training log files.
 - `checkpoint`: the directory to store the trained model parameters.
